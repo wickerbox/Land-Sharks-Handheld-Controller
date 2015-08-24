@@ -148,7 +148,7 @@
 <wire x1="93.218" y1="45.72" x2="88.138" y2="50.8" width="0.1524" layer="20" curve="90"/>
 <wire x1="88.138" y1="50.8" x2="3.81" y2="50.8" width="0.1524" layer="20"/>
 <wire x1="3.81" y1="50.8" x2="0" y2="46.99" width="0.1524" layer="20" curve="90"/>
-<text x="88.9" y="3.302" size="5.08" layer="22" font="vector" ratio="15" rot="MR0">LAN'D SHARK CONTROL</text>
+<text x="88.392" y="-4.064" size="5.08" layer="22" font="vector" ratio="15" rot="MR0">LAN'D SHARK CONTROL</text>
 <wire x1="24.384" y1="45.72" x2="32.004" y2="39.116" width="0.508" layer="21"/>
 <wire x1="32.004" y1="39.116" x2="32.004" y2="33.02" width="0.508" layer="21"/>
 <wire x1="32.004" y1="33.02" x2="31.75" y2="32.766" width="0.508" layer="21"/>
@@ -180,7 +180,6 @@
 <wire x1="29.464" y1="17.526" x2="32.004" y2="17.526" width="0.508" layer="21"/>
 <wire x1="32.004" y1="17.526" x2="32.004" y2="11.176" width="0.508" layer="21"/>
 <wire x1="32.004" y1="11.176" x2="24.384" y2="4.572" width="0.508" layer="21"/>
-<wire x1="46.228" y1="24.892" x2="39.624" y2="17.272" width="0.508" layer="21"/>
 <wire x1="39.624" y1="17.272" x2="33.528" y2="17.272" width="0.508" layer="21"/>
 <wire x1="33.528" y1="17.272" x2="33.274" y2="17.526" width="0.508" layer="21"/>
 <wire x1="33.274" y1="17.526" x2="33.274" y2="19.812" width="0.508" layer="21"/>
@@ -194,6 +193,41 @@
 <wire x1="39.624" y1="32.512" x2="46.228" y2="24.892" width="0.508" layer="21"/>
 <text x="2.54" y="44.45" size="1.778" layer="22" font="vector" ratio="15" rot="MR0" align="bottom-right">v1 Proto
 19-Aug-2015</text>
+<wire x1="46.228" y1="24.892" x2="39.878" y2="17.526" width="0.4064" layer="21"/>
+<wire x1="60.452" y1="28.702" x2="60.198" y2="28.702" width="0.4064" layer="21"/>
+<wire x1="54.356" y1="15.748" x2="55.626" y2="19.304" width="0.4064" layer="21"/>
+<wire x1="55.626" y1="19.304" x2="56.134" y2="18.542" width="0.4064" layer="21"/>
+<wire x1="56.134" y1="18.542" x2="57.404" y2="20.574" width="0.4064" layer="21"/>
+<wire x1="57.404" y1="20.574" x2="58.166" y2="19.304" width="0.4064" layer="21"/>
+<wire x1="58.166" y1="19.304" x2="59.436" y2="21.082" width="0.4064" layer="21"/>
+<wire x1="59.436" y1="21.082" x2="60.452" y2="19.558" width="0.4064" layer="21"/>
+<wire x1="60.452" y1="19.558" x2="61.722" y2="20.828" width="0.4064" layer="21"/>
+<wire x1="61.722" y1="20.828" x2="63.246" y2="19.05" width="0.4064" layer="21"/>
+<wire x1="63.246" y1="19.05" x2="64.008" y2="19.558" width="0.4064" layer="21"/>
+<wire x1="64.008" y1="19.558" x2="65.532" y2="16.51" width="0.4064" layer="21"/>
+<wire x1="65.532" y1="16.51" x2="65.786" y2="15.748" width="0.4064" layer="21"/>
+<wire x1="65.786" y1="15.748" x2="64.77" y2="15.24" width="0.4064" layer="21"/>
+<wire x1="64.77" y1="15.24" x2="64.262" y2="16.51" width="0.4064" layer="21"/>
+<wire x1="64.262" y1="16.51" x2="63.246" y2="17.272" width="0.4064" layer="21"/>
+<wire x1="63.246" y1="17.272" x2="61.976" y2="16.51" width="0.4064" layer="21"/>
+<wire x1="61.976" y1="16.51" x2="60.706" y2="17.272" width="0.4064" layer="21"/>
+<wire x1="60.706" y1="17.272" x2="59.944" y2="16.256" width="0.4064" layer="21"/>
+<wire x1="59.944" y1="16.256" x2="58.674" y2="17.272" width="0.4064" layer="21"/>
+<wire x1="58.674" y1="17.272" x2="57.912" y2="16.002" width="0.4064" layer="21"/>
+<wire x1="54.864" y1="15.494" x2="55.372" y2="16.256" width="0.4064" layer="21"/>
+<wire x1="57.912" y1="16.002" x2="56.642" y2="17.272" width="0.4064" layer="21"/>
+<wire x1="56.642" y1="17.272" x2="55.118" y2="16.002" width="0.4064" layer="21"/>
+<wire x1="58.42" y1="27.94" x2="60.96" y2="28.448" width="0.4064" layer="21"/>
+<wire x1="60.96" y1="28.448" x2="63.754" y2="27.432" width="0.4064" layer="21"/>
+<wire x1="64.008" y1="27.178" x2="68.072" y2="21.59" width="0.4064" layer="21"/>
+<wire x1="54.356" y1="9.906" x2="59.436" y2="8.128" width="0.4064" layer="21"/>
+<wire x1="59.436" y1="8.128" x2="61.722" y2="8.128" width="0.4064" layer="21"/>
+<wire x1="61.976" y1="8.128" x2="67.31" y2="10.16" width="0.4064" layer="21"/>
+<wire x1="67.31" y1="10.16" x2="68.072" y2="21.59" width="0.4064" layer="21"/>
+<wire x1="54.356" y1="10.16" x2="54.102" y2="10.16" width="0.4064" layer="21"/>
+<wire x1="54.102" y1="10.16" x2="52.324" y2="22.86" width="0.4064" layer="21"/>
+<wire x1="52.324" y1="22.86" x2="57.15" y2="28.194" width="0.4064" layer="21"/>
+<wire x1="57.15" y1="28.194" x2="58.674" y2="28.448" width="0.4064" layer="21"/>
 </plain>
 <libraries>
 <library name="Teensy3.0">
@@ -2200,7 +2234,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="76.454" y="4.842" size="2.286" layer="25" font="vector" ratio="15"/>
 </element>
 <element name="BITE" library="PatternAgents-TouchWidgets" package="BUTTON_PASSIVE_12MM" value="" x="60.198" y="16.764" smashed="yes">
-<attribute name="NAME" x="56.642" y="4.842" size="2.286" layer="25" font="vector" ratio="15"/>
+<attribute name="NAME" x="56.134" y="54.88" size="2.286" layer="25" font="vector" ratio="15"/>
 </element>
 </elements>
 <signals>
